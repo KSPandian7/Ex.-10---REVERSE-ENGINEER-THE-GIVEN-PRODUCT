@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/KSPandian7/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113496887/b8e258c1-2a91-4982-a746-fba25b8e66ed)
 
 ### Output:
+![image](https://github.com/KSPandian7/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113496887/1ef225c5-169b-4a2e-8437-2cc088621303)
+![image](https://github.com/KSPandian7/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113496887/a008899b-9ea2-467e-ad05-d3e343e6c5ba)
 
 
-### Name:
-### Register Number:
+### Name: KULASEKARAPANDIAN K
+### Register Number: 212222240052
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
